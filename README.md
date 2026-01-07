@@ -85,5 +85,4 @@ Sonuç olarak SQL Server, disk erişimini sayfa bazlı yaparak, Buffer Pool ile 
 1. Microsoft SQL Server – Indexes (Clustered / Non-Clustered) [[Linki](https://learn.microsoft.com/en-us/sql/relational-databases/indexes/indexes)]
 2. Microsoft SQL Server – Buffer Pool ve Bellek Yönetimi [[Linki](https://learn.microsoft.com/en-us/sql/relational-databases/performance/performance-center-for-database-engine-and-azure-sql-database)] 
 3. Microsoft SQL Server – Transaction Log ve WAL (Write Ahead Log) [[Linki](https://learn.microsoft.com/en-us/sql/relational-databases/logs/the-transaction-log-sql-server)]
-4. Database System Concepts – Silberschatz, Korth, Sudarshan [[Linki](https://youtu.be/UqeOi23asBk)] 
-5. YouTube – Database Internals (Eğitsel Video)
+4. YouTube – Database Internals (Eğitsel Video)
