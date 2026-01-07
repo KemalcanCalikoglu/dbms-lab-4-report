@@ -82,9 +82,8 @@ Sonuç olarak SQL Server, disk erişimini sayfa bazlı yaparak, Buffer Pool ile 
 
 ## VT Üzerinde Gösterilen Kaynak Kodları
 
-Açıklama [[Linki](https://youtu.be/UqeOi23asBk)] – Tablo oluşturma ve clustered index (Primary Key) gösterimi  
-Açıklama [[Linki](https://youtu.be/UqeOi23asBk)] – WHERE koşulu ile rastgele erişim örneği  
-Açıklama [[Linki](https://youtu.be/UqeOi23asBk)] – Non-clustered index oluşturulması (B+ Tree yapısı)  
-Açıklama [[Linki](https://youtu.be/UqeOi23asBk)] – Index sonrası sorgu ve disk I/O karşılaştırması  
-Açıklama [[Linki](https://youtu.be/UqeOi23asBk)] – Buffer Pool ve disk I/O minimizasyonu  
-Açıklama [[Linki](https://youtu.be/UqeOi23asBk)] – Veri ve log dosyalarının gösterimi (WAL)
+1. Microsoft SQL Server – Indexes (Clustered / Non-Clustered) [[Linki](https://learn.microsoft.com/en-us/sql/relational-databases/indexes/indexes)]
+2. Microsoft SQL Server – Buffer Pool ve Bellek Yönetimi [[Linki](https://learn.microsoft.com/en-us/sql/relational-databases/performance/performance-center-for-database-engine-and-azure-sql-database)] 
+3. Microsoft SQL Server – Transaction Log ve WAL (Write Ahead Log) [[Linki](https://learn.microsoft.com/en-us/sql/relational-databases/logs/the-transaction-log-sql-server)]
+4. Database System Concepts – Silberschatz, Korth, Sudarshan [[Linki](https://youtu.be/UqeOi23asBk)] 
+5. YouTube – Database Internals (Eğitsel Video)
